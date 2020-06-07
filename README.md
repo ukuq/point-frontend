@@ -1,1 +1,1 @@
-# point-frontend
+# onepoint-frontend
